@@ -1,9 +1,3 @@
-# Python_intermediate
+seaborn is a python package
 
-
-# Topics
-
-1.functions
-- function is defined as def keyword
-- it is used for reusability
   
